@@ -1,0 +1,26 @@
+.banner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    
+    background-size: cover;
+    color: white;
+  }
+  
+  .banner-text {
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+  
+  .user-icon {
+    display: flex;
+    align-items: center;
+  }
+  
+  .user-icon .fas {
+    margin-left: 10px;
+    font-size: 1.5em;
+    cursor: pointer;
+  }
+  
